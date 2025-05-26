@@ -90,23 +90,6 @@ I dati pubblicati possono essere utilizzati liberamente, a patto che vengano ris
 
 Per ulteriori informazioni o per segnalare eventuali problemi tecnici, è possibile contattare l'indirizzo: **opendata@unite.it**
 
-## Tutti i download
-
-I seguenti file sono disponibili per il download:
-
-- Professori a contratto con incarichi di insegnamento per le attività formative che consentono di acquisire crediti formativi universitari per classi di età a.a. 2021/2022 (0 KB) - CSV
-- Professori a contratto con incarichi di insegnamento per le attività formative che consentono di acquisire crediti formativi universitari, per area scientifico-disciplinare a.a. 2021/2022 (1 KB) - CSV
-- Personale a contratto impegnato in attività di tutorato e/o in attività didattico-integrative, propedeutiche e di recupero a.a. 2021/2022 (0 KB) - CSV
-- Collaboratori linguistici al 31 dicembre 2022, per sesso e tipologia di contratto (0 KB) - CSV
-- Altre tipologie di collaborazione in attività di ricerca, con specifica dei dottorandi, anno solare 2022, per sesso (0 KB) - CSV
-- Personale tecnico-amministrativo per area funzionale e tipologia di contratto al 31 dicembre 2022, distinto per sesso (0 KB) - CSV
-- Studenti incoming e outgoing per A.A. dal 2017/2018 al 2022/2023 (0 KB) - CSV
-- La distribuzione degli studenti per classe di importo della contribuzione pro-capite nell'a.a. 2021/2022, per tipo di corso di iscrizione (1 KB) - CSV
-- Gli studenti esonerati totalmente per tipologia di esonero e di corso di studio nell'a.a. 2021/22 (1 KB) - CSV
-- Gli studenti esonerati parzialmente per tipologia di esonero e di corso di studio nell'a.a. 2021/22 (0 KB) - CSV
-- Il numero degli interventi a favore degli studenti nell'a.a. 2021/2022 per tipo di iscrizione (2 KB) - CSV
-- Catalogo opendata unite (47 KB) - RDF (Resource Description Framework)
-
 ---
 
 **Ultimo aggiornamento**: 17-02-2025
